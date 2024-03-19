@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "SpoqaHanSansNeo-Light";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SpoqaHanSansNeo-Light.woff")
+    format("woff");
+}
+@font-face {
+  font-family: "AppleSDGothicNeoL";
+  src: url("/fonts/AppleSDGothicNeoL.ttf") format("ttf");
+}
+@font-face {
+  font-family: "AppleSDGothicNeoM";
+  src: url("/fonts/AppleSDGothicNeoM.ttf") format("ttf");
+}
+@font-face {
+  font-family: "AppleSDGothicNeoR";
+  src: url("/fonts/AppleSDGothicNeoR.ttf") format("ttf");
+}
